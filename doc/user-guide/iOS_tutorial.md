@@ -119,7 +119,7 @@ Everytime you want to send a message to someone (a JID), you will have to send t
 <message from='andres@erlang-solutions.com/iphone' to='juana@erlang-solutions.com' type='chat'>
     <body>Hey there!</body>
 </message>
- ```
+```
  
 ### `<iq/>`
 
